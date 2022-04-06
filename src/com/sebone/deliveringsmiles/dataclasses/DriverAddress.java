@@ -2,7 +2,7 @@ package com.sebone.deliveringsmiles.dataclasses;
 /**
  * Class Name - DriverAddress
  * Objective - This class will hold the address of the driver.
- * @author Ayush Tamrakar
+ * @author shreya paliwal
  *
  */
 public class DriverAddress {
